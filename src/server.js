@@ -7,7 +7,7 @@ const JWT_SECRET = "qwertyuiopasdfghjklzxcvbnmqwertyuiop";
 
 const app = express();
 
-const PORT = 3012;
+const PORT = 3008;
 
 const users = [
   {

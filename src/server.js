@@ -15,7 +15,7 @@ const users = [
     username : "tiger.coder",
     password : "test",
     roles: [
-      "admin"
+      "admin", "user"
     ]
   },
   {
@@ -23,7 +23,7 @@ const users = [
     username : "anton1",
     password : "test",
     roles: [
-      "user", "driver"
+      "user", "driver", "user"
     ]
   },
   {
@@ -31,7 +31,7 @@ const users = [
     username : "anton2",
     password : "test",
     roles : [
-      "user", "manager", "news-redactor"
+      "user", "manager", "news-redactor", "user"
     ]
   }
 ];
